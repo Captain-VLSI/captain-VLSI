@@ -46,7 +46,6 @@
 ---
 
 ### 🌐 Research & Publications:
-- **IEEE Transactions on Aerospace and Electronic Systems (TAES):** *Journal Submission on Hardware Acceleration of Crystals-Kyber in Embedded RISC-V Systems.*
 - **IEEE SPACE 2026:** *Conference Paper on Hardware-Software Co-Design and PYNQ-Z2 FPGA Acceleration.*
 - **IEEE Conference Publication:** *Design and Implementation of Low Power and Low Area RISC Core Using Vedic Mathematics.*
 
