@@ -1,23 +1,49 @@
 # 👋 Hi, I'm Ganesh S (@Captain-VLSI)
 
-### 💻 VLSI Design, Hardware Verification & Silicon Memory Engineer
+### ⚡ CMOS Circuit Design, SRAM Memory & Digital VLSI Engineer
 🎓 **M.Tech in Digital Electronics & Communication (DEC)** | **B.Tech in ECE**  
-📍 Passionate about RTL Design, UVM-based Hardware Verification, FPGA Physical Deployment, and Transistor-Level SRAM Memory Optimization.
+📍 Specializing in **Transistor-Level CMOS / FinFET Circuit Design**, **SRAM Memory Characterization**, and **Digital RTL Design & Hardware Verification**.
 
 ---
 
 ### 🛠️ Technical Skillset:
-- **HDL & Verification:** SystemVerilog, Verilog, UVM, C
-- **EDA & Simulation Tools:** Cadence Virtuoso, Cadence Spectre, Synopsys Design Compiler, Vivado, ModelSim/QuestaSim
-- **Silicon & Memory Design:** 18nm FinFET / 45nm CMOS 6T SRAM Bitcell Design, Static Noise Margins (HSNM/RSNM), Write Trip Point (WTP)
-- **Embedded & Accelerators:** PYNQ-Z2 FPGA SoC, Hardware-Software Co-Design, Post-Quantum Cryptography Accelerators
-- **Automation & Scripting:** Python (NumPy, SciPy, Scikit-learn), Shell Scripting, SPICE Netlisting
+
+- **Transistor-Level Circuit & Memory Design:**
+  - 18nm FinFET (`cds_ff_mpt`) & 45nm CMOS (`gpdk045`) Bitcell Design
+  - Static Noise Margins (HSNM, RSNM via Seevinck Rotation), Write Trip Point (WTP), Write Noise Margin (WNM)
+  - Transistor Sizing Optimization (Cell Ratio, Pull-Up Ratio, Fin Quantization)
+  - Quiescent Standby Leakage, Dynamic Power & Multi-Cycle Transient Switching Verification
+
+- **EDA & Simulation Tools:**
+  - **Custom IC / Analog:** Cadence Virtuoso Schematic Editor, Cadence Spectre SPICE, Virtuoso Visualization & Analysis XL (VIVA)
+  - **Digital / Synthesis:** Synopsys Design Compiler, Xilinx Vivado, ModelSim / QuestaSim
+
+- **Digital RTL Design & Verification:**
+  - SystemVerilog, Verilog, SystemVerilog Assertions (SVA), UVM Verification Architecture, C
+  - AMBA Protocols (AHB-Lite, APB Bridges), UART Subsystems, FIFO Buffers
+
+- **FPGA & Hardware Acceleration:**
+  - Xilinx Zynq-7000 (PYNQ-Z2) SoC, Hardware-Software Co-Design, Embedded C Firmware
+  - Post-Quantum Cryptography (PQC Crystals-Kyber / ML-KEM) Hardware Accelerators for RISC-V
+
+- **Automation & Scientific Computing:**
+  - Python (`numpy`, `scipy`, `pandas`, `scikit-learn`, `matplotlib`), SPICE Netlisting & Automation, Shell Scripting
 
 ---
 
 ### 📌 Featured Repositories:
-- **[18nm-6t-sram-ml-optimization](https://github.com/Captain-VLSI/18nm-6t-sram-ml-optimization):** ML-assisted 6T SRAM bitcell multi-objective optimization & Cadence Spectre verification in 18nm FinFET.
-- **[inverter-and-6t-sram-netlist-design](https://github.com/Captain-VLSI/inverter-and-6t-sram-netlist-design):** Transistor-level SPICE netlist design and 220ns transient verification in Cadence gpdk045.
+
+- **[18nm-6t-sram-ml-optimization](https://github.com/Captain-VLSI/18nm-6t-sram-ml-optimization):**  
+  *ML-assisted 6T SRAM bitcell multi-objective optimization, 1,200-point characterization across 150 FinFET geometries, and closed-loop Cadence Spectre verification.*
+
+- **[inverter-and-6t-sram-netlist-design](https://github.com/Captain-VLSI/inverter-and-6t-sram-netlist-design):**  
+  *Transistor-level SPICE netlist subcircuits and continuous 220 ns multi-cycle transient verification (Hold, Read, Write) in Cadence gpdk045 (45nm).*
+
+---
+
+### 🌐 Research & Publications:
+- **IEEE Transactions on Aerospace and Electronic Systems (TAES):** *Journal Submission on Hardware Acceleration of Crystals-Kyber in Embedded RISC-V Systems.*
+- **IEEE SPACE 2026:** *Conference Paper on Hardware-Software Co-Design and PYNQ-Z2 FPGA Acceleration.*
 
 ---
 
