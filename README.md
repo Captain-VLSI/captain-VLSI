@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Technical Skillset:
-- **HDL & Verification:** SystemVerilog, Verilog, UVM, VHDL, C/C++
+- **HDL & Verification:** SystemVerilog, Verilog, UVM, C
 - **EDA & Simulation Tools:** Cadence Virtuoso, Cadence Spectre, Synopsys Design Compiler, Vivado, ModelSim/QuestaSim
 - **Silicon & Memory Design:** 18nm FinFET / 45nm CMOS 6T SRAM Bitcell Design, Static Noise Margins (HSNM/RSNM), Write Trip Point (WTP)
 - **Embedded & Accelerators:** PYNQ-Z2 FPGA SoC, Hardware-Software Co-Design, Post-Quantum Cryptography Accelerators
